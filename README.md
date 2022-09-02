@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Murilo Barbosa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
- 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Murilo+Barbosa;I'm+19+years+old;I+from+Santa+Cruz+do+rio+pardo,+SP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
@@ -45,5 +43,3 @@
 [![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514997797848&text=Ol%C3%A1)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-barbosa-81a879182/)
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbarbosa@nmg-agencia.com)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
