@@ -63,9 +63,27 @@ const murilo = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,ruby,rails,php,prisma&theme=dark&perline=4" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,ruby,rails,php&theme=dark&perline=4" alt="Backend"/>
 
-> Node.js · Express.js · NestJS · Fastify · Ruby · Ruby on Rails · PHP · Prisma
+> Node.js · Express.js · NestJS · Fastify · Ruby · Ruby on Rails · PHP
+
+### 🔗 ORMs & Query Builders
+
+<img src="https://skillicons.dev/icons?i=prisma,sequelize,drizzle&theme=dark&perline=5" alt="ORMs"/>
+
+[![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io)
+[![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com)
+[![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/eloquent)
+
+> Prisma · TypeORM · Sequelize · Mongoose · Drizzle · Eloquent
+
+### 📡 APIs & Protocolos
+
+[![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://swagger.io)
+[![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)](https://zod.dev)
+
+> REST · Swagger / OpenAPI · Zod
 
 ### 🗄️ Databases
 
