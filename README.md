@@ -45,7 +45,7 @@ const murilo = {
 
 ---
 
-## � Technologies
+## 💻 Technologies
 
 <div align="center">
 
