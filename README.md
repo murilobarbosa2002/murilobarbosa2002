@@ -54,9 +54,15 @@ const murilo = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=6" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,php,prisma&theme=dark&perline=6" alt="Backend"/>
 
-> Node.js
+> Node.js · Express.js · Ruby · Ruby on Rails · PHP · Prisma
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark&perline=4" alt="Databases"/>
+
+> PostgreSQL · MySQL · MongoDB · Redis
 
 ### 🚀 DevOps & Deploy
 
