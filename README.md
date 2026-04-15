@@ -69,7 +69,10 @@ const murilo = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,ruby,rails,php&theme=dark&perline=4" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastify,ruby,php&theme=dark&perline=5" alt="Backend"/>
+
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)](https://rubyonrails.org)
 
 > Node.js · Express.js · NestJS · Fastify · Ruby · Ruby on Rails · PHP
 
