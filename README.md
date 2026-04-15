@@ -1,29 +1,90 @@
-### Main skills:
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Murilo%20Barbosa&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=20&descAlignY=56&descAlign=50" width="100%" alt="Murilo Barbosa - Full Stack Developer"/>
+</div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=650&lines=Full+Stack+Developer+%F0%9F%9A%80;JavaScript+%26+TypeScript+Enthusiast+%E2%9A%A1;React+%7C+React+Native+%7C+Node.js+Developer;Building+elegant+and+scalable+solutions+%F0%9F%8C%9F;Always+learning+%7C+Always+growing+%F0%9F%8C%B1" alt="Typing SVG"/>
+  </a>
+</div>
 
-### Learning:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+<br/>
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <a href="https://www.linkedin.com/in/murilo-barbosa-81a879182/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:murilo.barbosa2609@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5514998858818&text=Ol%C3%A1" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=murilobarbosa2002&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
 
-### OS:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+---
 
-### Contacts:
-[![Watsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5514998858818&text=Ol%C3%A1)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-barbosa-81a879182/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilo.barbosa2609@gmail.com)
+## 👨‍💻 About Me
+
+```typescript
+const murilo = {
+  role:      "Full Stack Developer",
+  location:  "Brazil 🇧🇷",
+  code:      ["JavaScript", "TypeScript", "HTML", "CSS"],
+  stack:     ["React", "React Native", "Node.js", "Tailwind CSS"],
+  exploring: ["Flutter", "Python"],
+  tools:     ["VS Code", "Git", "GitHub"],
+  os:        ["Windows", "Arch Linux", "Android"],
+  motto:     "Code with purpose. Build with passion.",
+};
+```
+
+---
+
+## 🚀 Tech Stack
+
+<div align="center">
+
+### ⚡ Main Skills
+
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,react,html,css,tailwind&theme=dark&perline=8" alt="Main Skills"/>
+
+> React · React Native · Node.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Styled Components
+
+### 🛠️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=8" alt="Tools"/>
+
+### 📚 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=flutter,python&theme=dark&perline=8" alt="Learning"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="./metrics/overview.svg" width="49%" alt="GitHub Overview"/>
+  <img src="./metrics/languages.svg" width="49%" alt="Most Used Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=murilobarbosa2002&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murilobarbosa2002&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+</div>
