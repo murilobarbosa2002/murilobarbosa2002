@@ -124,19 +124,7 @@ const murilo = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="./metrics/languages.svg" width="60%" alt="Most Used Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=murilobarbosa2002&theme=tokyonight&hide_border=true&background=0D1117&date_format=j%20M%5B%20Y%5D" width="70%" alt="GitHub Streak"/>
-</div>
-
----
-
-## 📈 Contribution Activity
+##  Contribution Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=murilobarbosa2002&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
