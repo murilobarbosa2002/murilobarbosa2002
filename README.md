@@ -51,7 +51,10 @@ const murilo = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,html,css,scss,tailwind,styledcomponents&theme=dark&perline=5" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,scss,tailwind&theme=dark&perline=7" alt="Frontend"/>
+
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev)
+[![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com)
 
 > React · React Native · TypeScript · JavaScript · HTML5 · CSS3 · SCSS · Tailwind CSS · Styled Components
 
@@ -72,9 +75,10 @@ const murilo = {
 
 ### 🔗 ORMs & Query Builders
 
-<img src="https://skillicons.dev/icons?i=prisma,sequelize,drizzle&theme=dark&perline=5" alt="ORMs"/>
+<img src="https://skillicons.dev/icons?i=prisma,drizzle&theme=dark&perline=5" alt="ORMs"/>
 
 [![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io)
+[![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org)
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com)
 [![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/eloquent)
 
