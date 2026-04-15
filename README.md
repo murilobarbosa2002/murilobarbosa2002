@@ -56,10 +56,6 @@ const murilo = {
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=8" alt="Tools"/>
 
-### 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=flutter,python&theme=dark&perline=8" alt="Learning"/>
-
 </div>
 
 ---
@@ -67,8 +63,7 @@ const murilo = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="./metrics/overview.svg" width="49%" alt="GitHub Overview"/>
-  <img src="./metrics/languages.svg" width="49%" alt="Most Used Languages"/>
+  <img src="./metrics/languages.svg" width="60%" alt="Most Used Languages"/>
 </div>
 
 <div align="center">

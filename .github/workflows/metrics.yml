@@ -15,16 +15,6 @@ jobs:
       contents: write
 
     steps:
-      - name: Overview & Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          filename: metrics/overview.svg
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Sao_Paulo
-          config_display: large
-          config_padding: 6%, 10%
-
       - name: Most Used Languages
         uses: lowlighter/metrics@latest
         with:
