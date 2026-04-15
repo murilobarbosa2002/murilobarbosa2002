@@ -52,6 +52,14 @@ const murilo = {
 
 > React · React Native · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Styled Components
 
+### 📦 Frameworks
+
+<img src="https://skillicons.dev/icons?i=nextjs,laravel&theme=dark&perline=6" alt="Frameworks"/>
+
+[![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)](https://inertiajs.com)
+
+> Next.js · Laravel · Inertia.js
+
 ### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,php,prisma&theme=dark&perline=6" alt="Backend"/>
