@@ -54,17 +54,16 @@ const murilo = {
 
 ### 🛠️ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,npm&theme=dark&perline=5" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,docker,figma,postman,vercel,jest,vite&theme=dark&perline=7" alt="Tools"/>
 
 <br/>
 
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
-
-### 📚 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=flutter,python&theme=dark&perline=8" alt="Learning"/>
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
 
 </div>
 
