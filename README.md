@@ -31,10 +31,13 @@
 const murilo = {
   role:      "Full Stack Developer",
   location:  "Brazil 🇧🇷",
-  code:      ["JavaScript", "TypeScript", "HTML", "CSS"],
-  stack:     ["React", "React Native", "Node.js", "Tailwind CSS"],
-  exploring: ["Flutter", "Python"],
-  tools:     ["VS Code", "Git", "GitHub"],
+  frontend:  ["JavaScript", "TypeScript", "React", "React Native", "HTML", "CSS", "SCSS", "Tailwind CSS", "Styled Components"],
+  frameworks:["Next.js", "Vue", "Angular", "Svelte", "SolidJS", "Laravel", "Inertia.js", "Blade"],
+  backend:   ["Node.js", "Express.js", "NestJS", "Fastify", "Ruby", "Ruby on Rails", "PHP"],
+  orm:       ["Prisma", "TypeORM", "Sequelize", "Mongoose", "Drizzle", "Eloquent"],
+  databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
+  devops:    ["Docker", "Vercel", "Railway", "DigitalOcean", "Cloudflare", "GitHub Actions"],
+  workspace: ["VS Code", "Cursor", "GitHub Copilot", "Google Antigravity", "Figma", "Postman", "Jest", "Vite"],
   os:        ["Windows", "Arch Linux", "Android"],
   motto:     "Code with purpose. Build with passion.",
 };
