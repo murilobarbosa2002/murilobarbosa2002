@@ -54,7 +54,12 @@ const murilo = {
 
 ### 🛠️ Tools & Environment
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark&perline=8" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,npm&theme=dark&perline=5" alt="Tools"/>
+
+<br/>
+
+[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 
 </div>
 
