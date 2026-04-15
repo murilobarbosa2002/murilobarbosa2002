@@ -48,17 +48,18 @@ const murilo = {
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&theme=dark&perline=6" alt="Frontend"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,reactnative,html,css,scss,tailwind,styledcomponents&theme=dark&perline=5" alt="Frontend"/>
 
-> React · React Native · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Styled Components
+> React · React Native · TypeScript · JavaScript · HTML5 · CSS3 · SCSS · Tailwind CSS · Styled Components
 
 ### 📦 Frameworks
 
-<img src="https://skillicons.dev/icons?i=nextjs,laravel&theme=dark&perline=6" alt="Frameworks"/>
+<img src="https://skillicons.dev/icons?i=nextjs,vue,angular,svelte,solidjs,laravel&theme=dark&perline=6" alt="Frameworks"/>
 
 [![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)](https://inertiajs.com)
+[![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/blade)
 
-> Next.js · Laravel · Inertia.js
+> Next.js · Vue · Angular · Svelte · SolidJS · Laravel · Inertia.js · Blade
 
 ### ⚙️ Backend
 
