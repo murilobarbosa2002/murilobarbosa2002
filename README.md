@@ -42,28 +42,41 @@ const murilo = {
 
 ---
 
-## 🚀 Tech Stack
+## � Technologies
 
 <div align="center">
 
-### ⚡ Main Skills
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,react,html,css,tailwind&theme=dark&perline=8" alt="Main Skills"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind&theme=dark&perline=6" alt="Frontend"/>
 
-> React · React Native · Node.js · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Styled Components
+> React · React Native · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · Styled Components
 
-### 🛠️ Tools & Environment
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=vscode,docker,figma,postman,vercel,jest,vite&theme=dark&perline=7" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=6" alt="Backend"/>
+
+> Node.js
+
+### 🚀 DevOps & Deploy
+
+<img src="https://skillicons.dev/icons?i=docker,vercel&theme=dark&perline=6" alt="DevOps"/>
+
+<br/>
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
+
+### 🛠️ Workspace
+
+<img src="https://skillicons.dev/icons?i=vscode,figma,postman,jest,vite&theme=dark&perline=5" alt="Workspace"/>
 
 <br/>
 
 [![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com)
 [![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
 [![Google Antigravity](https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app)
-[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com)
 
 </div>
 
