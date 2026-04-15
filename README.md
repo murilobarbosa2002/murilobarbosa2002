@@ -78,11 +78,12 @@ const murilo = {
 
 ### 🔗 ORMs & Query Builders
 
-<img src="https://skillicons.dev/icons?i=prisma,drizzle&theme=dark&perline=5" alt="ORMs"/>
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark&perline=5" alt="ORMs"/>
 
 [![TypeORM](https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white)](https://typeorm.io)
 [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org)
 [![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com)
+[![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)](https://orm.drizzle.team)
 [![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/eloquent)
 
 > Prisma · TypeORM · Sequelize · Mongoose · Drizzle · Eloquent
