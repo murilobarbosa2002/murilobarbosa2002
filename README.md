@@ -63,9 +63,9 @@ const murilo = {
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,ruby,rails,php,prisma&theme=dark&perline=6" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastify,ruby,rails,php,prisma&theme=dark&perline=4" alt="Backend"/>
 
-> Node.js · Express.js · Ruby · Ruby on Rails · PHP · Prisma
+> Node.js · Express.js · NestJS · Fastify · Ruby · Ruby on Rails · PHP · Prisma
 
 ### 🗄️ Databases
 
@@ -75,7 +75,7 @@ const murilo = {
 
 ### 🚀 DevOps & Deploy
 
-<img src="https://skillicons.dev/icons?i=docker,vercel&theme=dark&perline=6" alt="DevOps"/>
+<img src="https://skillicons.dev/icons?i=docker,vercel,cloudflare&theme=dark&perline=6" alt="DevOps"/>
 
 <br/>
 
