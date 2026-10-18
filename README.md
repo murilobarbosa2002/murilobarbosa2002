@@ -20,7 +20,6 @@
   <a href="https://api.whatsapp.com/send?phone=5514998858818&text=Ol%C3%A1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=murilobarbosa2002&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </div>
 
 ---
