@@ -127,14 +127,6 @@ const murilo = {
 
 ---
 
-##  Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murilobarbosa2002&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
 </div>
